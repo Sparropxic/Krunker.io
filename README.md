@@ -1,15 +1,8 @@
 # Krunker.io
-Hacks Krunker.io
-
-version : 3.8.8
 
 
-// @require http://code.jquery.com/jquery-3.3.1.min.js
+Krunker.io game is the most popular shooting game of io games. In this game, there are many different maps, weapons and player characters. The competition is quite high and players can reduce this competition by using Krunker.io mods. Krunker.io mods give players extra features to easily defeat other players.
 
-// @require https://code.jquery.com/ui/1.12.0/jquery-ui.min.js
+## ========== Installation ==========
 
-// @require https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.0/jquery-confirm.min.js
-
-// @require http://code.jquery.com/jquery-3.3.1.min.js
-
-// @ credits : https://iomods.org
+#### Make sure you have [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) on Google Chrome
